@@ -1,1 +1,1 @@
-export default Footer = () => <div><h2>some footer</h2></div>
+export default Footer = () => <div><h2>some footer content</h2></div>
