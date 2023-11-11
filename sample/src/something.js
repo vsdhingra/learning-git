@@ -1,1 +1,1 @@
-const something = (number) => number + 2
+const something = (number) => number - 1
