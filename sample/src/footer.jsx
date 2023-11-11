@@ -8,7 +8,6 @@ export default function Footer() {
             </h3>
             <div>
                 <p>more footer content</p>
-                <p>new paragraph added to footer</p>
                 <Button />
             </div>
         </div>
