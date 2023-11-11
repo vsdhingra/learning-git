@@ -10,9 +10,6 @@ export default function Footer() {
                 <p>more footer content</p>
                 <p>new paragraph added to footer</p>
                 <p>new paragraph added to footer</p>
-                <p>new paragraph added to footer</p>
-                <p>new paragraph added to footer</p>
-                <p>new paragraph added to footer</p>
                 <Button />
             </div>
         </div>
