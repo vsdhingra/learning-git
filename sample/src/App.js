@@ -9,6 +9,7 @@ function App() {
       <div>
         <>
           <h1>Sample App for stage</h1>
+          <h2>sample app for stage</h2>
           <Footer />
           <div>
             <p>added to dev/ft2</p>
