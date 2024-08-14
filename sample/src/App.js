@@ -11,6 +11,7 @@ function App() {
           <Footer />
           <div>
             <p>added to dev/ft2</p>
+            <p>develop 2</p>
           </div>
         </>
       </div>
