@@ -9,7 +9,9 @@ function App() {
       <div>
         <>
           <Footer />
-          <p></p>
+          <div>
+            <p>added to dev/ft1</p>
+          </div>
         </>
       </div>
     </>
