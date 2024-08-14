@@ -13,6 +13,7 @@ function App() {
           <div>
             <p>added to dev/ft1</p>
           </div>
+          <h2>sample app for stage</h2>
         </>
       </div>
     </>
